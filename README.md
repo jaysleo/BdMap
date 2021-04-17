@@ -37,4 +37,4 @@
 #### 源码地址：
 ------------------------
 
-码云地址：https://github.com/jaysleo/BdMap.git
+源码地址：https://github.com/jaysleo/BdMap.git
